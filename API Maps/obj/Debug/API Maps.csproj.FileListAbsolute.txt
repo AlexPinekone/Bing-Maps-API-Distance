@@ -1,0 +1,38 @@
+C:\Users\manue\source\repos\API Maps\API Maps\bin\Debug\API Maps.exe.config
+C:\Users\manue\source\repos\API Maps\API Maps\bin\Debug\API Maps.exe
+C:\Users\manue\source\repos\API Maps\API Maps\bin\Debug\API Maps.pdb
+C:\Users\manue\source\repos\API Maps\API Maps\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\manue\source\repos\API Maps\API Maps\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\manue\source\repos\API Maps\API Maps\obj\Debug\API Maps.csproj.AssemblyReference.cache
+C:\Users\manue\source\repos\API Maps\API Maps\obj\Debug\API_Maps.Form1.resources
+C:\Users\manue\source\repos\API Maps\API Maps\obj\Debug\API_Maps.Properties.Resources.resources
+C:\Users\manue\source\repos\API Maps\API Maps\obj\Debug\API Maps.csproj.GenerateResource.cache
+C:\Users\manue\source\repos\API Maps\API Maps\obj\Debug\API Maps.csproj.CoreCompileInputs.cache
+C:\Users\manue\source\repos\API Maps\API Maps\obj\Debug\API Maps.csproj.CopyComplete
+C:\Users\manue\source\repos\API Maps\API Maps\obj\Debug\API Maps.exe
+C:\Users\manue\source\repos\API Maps\API Maps\obj\Debug\API Maps.pdb
+C:\Users\manue\source\repos\API Maps\API Maps\obj\Debug\UserControl1.g.cs
+C:\Users\manue\source\repos\API Maps\API Maps\obj\Debug\API Maps_MarkupCompile.cache
+C:\Users\manue\source\repos\API Maps\API Maps\obj\Debug\API Maps_MarkupCompile.lref
+C:\Users\manue\source\repos\API Maps\API Maps\obj\Debug\UserControl1.baml
+C:\Users\manue\source\repos\API Maps\API Maps\obj\Debug\API Maps.g.resources
+C:\Users\manue\source\repos\API Maps\API Maps\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\manue\source\repos\API Maps\API Maps\bin\Debug\Newtonsoft.Json.dll
+C:\Users\manue\source\repos\API Maps\API Maps\bin\Debug\System.Buffers.dll
+C:\Users\manue\source\repos\API Maps\API Maps\bin\Debug\System.Memory.dll
+C:\Users\manue\source\repos\API Maps\API Maps\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\manue\source\repos\API Maps\API Maps\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\manue\source\repos\API Maps\API Maps\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\manue\source\repos\API Maps\API Maps\bin\Debug\System.Text.Json.dll
+C:\Users\manue\source\repos\API Maps\API Maps\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\manue\source\repos\API Maps\API Maps\bin\Debug\System.ValueTuple.dll
+C:\Users\manue\source\repos\API Maps\API Maps\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\manue\source\repos\API Maps\API Maps\bin\Debug\Newtonsoft.Json.xml
+C:\Users\manue\source\repos\API Maps\API Maps\bin\Debug\System.Buffers.xml
+C:\Users\manue\source\repos\API Maps\API Maps\bin\Debug\System.Memory.xml
+C:\Users\manue\source\repos\API Maps\API Maps\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\manue\source\repos\API Maps\API Maps\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\manue\source\repos\API Maps\API Maps\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\manue\source\repos\API Maps\API Maps\bin\Debug\System.Text.Json.xml
+C:\Users\manue\source\repos\API Maps\API Maps\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\manue\source\repos\API Maps\API Maps\bin\Debug\System.ValueTuple.xml
